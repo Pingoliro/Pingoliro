@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Geilson! 🧠⚡
 
-<!--
-**Pingoliro/Pingoliro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor de 18 anos focado na interseção entre **Infraestrutura de IA** e **Sistemas de Alta Performance (HFT)**. Minha missão é construir pipelines de ML que sejam não apenas inteligentes, mas ultra-velozes e escaláveis.
 
-Here are some ideas to get you started:
+### 🛠️ No que estou trabalhando agora:
+* **HFT Oracle:** Desenvolvendo algoritmos de baixa latência para monitoramento de ativos financeiros.
+* **CS50AI (Harvard):** Implementando modelos de busca e otimização (como o projeto Degrees).
+* **MLOps:** Automatizando o deploy de modelos de IA na AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Stack Tecnológica:
+* **Linguagens:** Python (Expert), C, C++, Rust, SQL.
+* **Infra:** AWS Bedrock, Docker, Linux, Git.
+* **Foco:** Machine Learning, Algoritmos de Busca (BFS/DFS), Análise de Dados.
+
+---
+"O código é apenas o meio; a performance é o objetivo."
